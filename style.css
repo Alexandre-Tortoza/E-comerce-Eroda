@@ -109,6 +109,18 @@
     color:#fff;
   }
   
+
+
+div.img{
+    border-radius: 40px;
+    column-count: 3;
+    size: 0ch;
+}
+
+
+
+
+
   @media(max-width:960px){
     .conteudo{
       padding-right:3rem;
